@@ -3,4 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
-[x](https://github.com/Fessan/python-project-lvl1/blob/main/.github/workflows/check.yaml/badge.svg)
+[! example workflow](https://github.com/Fessan/python-project-lvl1/blob/main/.github/workflows/check.yaml/badge.svg)
