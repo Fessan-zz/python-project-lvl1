@@ -4,4 +4,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 
-[![Actions Status](https://github.com/Fessan/python-project-lvl1/blob/main/.github/workflows/check.yaml/badge.svg)]
+[![Actions Status](https://github.com/Fessan/python-project-lvl1/workflows/check.yaml/badge.svg)](https://github.com/Fessan/python-project-lvl1/actions)
